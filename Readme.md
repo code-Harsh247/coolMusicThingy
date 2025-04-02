@@ -53,7 +53,7 @@ This application uses your webcam to detect hand gestures and plays correspondin
 
 1. Run the program:
    ```
-   python hand_chord_player.py
+   python coolMusicThingy.py
    ```
 
 2. Show your hand to the camera with different finger combinations to play chords
