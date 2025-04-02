@@ -1,6 +1,6 @@
 # cool Music Thingy
 
-A computer vision application that allows you to play guitar chords by showing different finger gestures to your webcam.
+A computer vision application that allows you to play chords by showing different finger gestures to your webcam.
 
 ## Overview
 
