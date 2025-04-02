@@ -1,4 +1,4 @@
-# Hand Gesture Chord Player
+# cool Music Thingy
 
 A computer vision application that allows you to play guitar chords by showing different finger gestures to your webcam.
 
